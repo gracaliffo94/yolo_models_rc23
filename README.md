@@ -1,4 +1,4 @@
-**YoloV7-based implementation for object detection in RoboCup SPL**
+# **YoloV7-based object detection for RoboCup SPL**
 
 **Classes:**
 
