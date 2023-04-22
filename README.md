@@ -17,4 +17,6 @@ I'm currently adding trained nnets in the pretrained_weights folder.
 
 However, due to size limits, large models must be downloaded from the following links:
 
-1 - Original YoloV7 Model, 37M params https://drive.google.com/file/d/1uI1NK4otw9mRU-B4EKM14A6vCsUSovjD/view?usp=share_link
+1 - Original YoloV7 Model, 37M params - 10K epochs https://drive.google.com/file/d/1uI1NK4otw9mRU-B4EKM14A6vCsUSovjD/view?usp=share_link
+
+2 - Custom YoloV7 Model, 177K params  - 10K epochs https://drive.google.com/file/d/1M7ln4Z4uyb5VNgFNw9MLsUa7TvkNMGGZ/view?usp=share_link
