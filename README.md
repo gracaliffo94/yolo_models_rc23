@@ -2,7 +2,9 @@ YoloV7-based implementation for object detection in RoboCup SPL
 
 Usage:
 1) create environment using python3.8.10 , namely the version we currently have in our nao's OS 
+
    python3.8 -m venv venv
+   
 2) venv/bin/python -m pip install -r requirements.txt
 3) for just detection:
    venv/bin/python detect_m.py
