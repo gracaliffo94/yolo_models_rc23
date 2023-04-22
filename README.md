@@ -12,6 +12,12 @@ Usage:
    **venv/bin/python test_m.py**
 
 Other models:
+
+
 I'm currently adding trained nnets in the pretrained_weights folder.
+
+
 However, due to size limits, large models must be downloaded from the following links:
+
+
 1 - Original YoloV7 Model, 37M params https://drive.google.com/file/d/1uI1NK4otw9mRU-B4EKM14A6vCsUSovjD/view?usp=share_link
