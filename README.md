@@ -1,9 +1,14 @@
-**YoloV7-based implementation for object detection in RoboCup SPL
-Classes:**
+**YoloV7-based implementation for object detection in RoboCup SPL**
+
+**Classes:**
+
 ball
 robot
 goalpost
 goalspot
+
+
+
 
 **Usage:**
 1) create environment using python3.8.10 , namely the version we currently have in our nao's OS 
