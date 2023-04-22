@@ -1,6 +1,11 @@
-YoloV7-based implementation for object detection in RoboCup SPL
+**YoloV7-based implementation for object detection in RoboCup SPL
+Classes:**
+ball
+robot
+goalpost
+goalspot
 
-Usage:
+**Usage:**
 1) create environment using python3.8.10 , namely the version we currently have in our nao's OS 
 
    **python3.8 -m venv venv**
@@ -11,7 +16,7 @@ Usage:
 4) for test and metrics:
    **venv/bin/python test_m.py**
 
-Other models:
+**Other models:**
 
 I'm currently adding trained nnets in the pretrained_weights folder.
 
