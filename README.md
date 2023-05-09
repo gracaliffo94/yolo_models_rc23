@@ -43,6 +43,5 @@ https://drive.google.com/file/d/1M7ln4Z4uyb5VNgFNw9MLsUa7TvkNMGGZ/view?usp=share
 5. Narayanaswami, S.K., Tec, M., Durugkar, I., Desai, S., Masetty, B., Narvekar, S., Stone, P.: Towards a real-time, low-resource, end-to-end object detection pipeline for robot soccer. In: RoboCup 2022: Robot World Cup XXV, pp. 62–74. Springer (2023)
 6. Szemenyei, M., Estivill-Castro, V.: Robo: Robust, fully neural object detection for robot soccer. In: RoboCup 2019: Robot World Cup XXIII  23. pp. 309–322. Springer (2019)
 7. Thielke, F., Hasselbring, A.: A JIT compiler for neural network inference. In: RoboCup 2019: Robot World Cup XXIII, pp. 448–456. Springer International Publishing (2019). https://doi.org/10.1007/978-3-030-35699-6 3 6, https://doi.org/10.1007%2F978-3-030-35699-6_36
-8. Yao, Z., Douglas, W., O’Keeffe, S., Villing, R.: Faster yolo-lite: Faster object detection on robot and edge devices. In: RoboCup 2021: Robot World Cup XXIV, pp. 226–237. Springer (2022)
-9. Faster YOLO-LITE: Faster Object Detection on Robot and Edge Devices. ZhengBai Yao, Will Douglas, Simon O'Keeffe, and Rudi Villing.
+8. Faster YOLO-LITE: Faster Object Detection on Robot and Edge Devices. ZhengBai Yao, Will Douglas, Simon O'Keeffe, and Rudi Villing.
 https://roboeireann.maynoothuniversity.ie/research/SPLObjDetectDatasetV2.zip
