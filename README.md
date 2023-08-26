@@ -20,6 +20,8 @@ goalspot
    **venv/bin/python detect_m.py**
 4) for test and metrics:
    **venv/bin/python test_m.py**
+4) for iterative training and pruning (note: put inside data/roboeireann.yaml the path to your dataset):
+   **venv/bin/python train.py**
 
 **Other models:**
 
