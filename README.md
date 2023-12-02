@@ -37,6 +37,10 @@ https://drive.google.com/file/d/1uI1NK4otw9mRU-B4EKM14A6vCsUSovjD/view?usp=share
 
 https://drive.google.com/file/d/1M7ln4Z4uyb5VNgFNw9MLsUa7TvkNMGGZ/view?usp=share_link
 
+3 - Pruned version of model at point 2, 47K params (.pt containing only the weights)
+
+https://drive.google.com/file/d/1-hiev9XK7oJA70gD-XAF61Til-hA9gcA/view?usp=drive_link
+
 **Citation:**
 1. Albani, D., Youssef, A., Suriani, V., Nardi, D., Bloisi, D.D.: A deep learning approach for object recognition with nao soccer robots. Lecture Notes in Computer Science (2017)
 2. Bloisi, D., Duchetto, F.D., Manoni, T., Suriani, V.: Machine learning for realistic ball detection in robocup spl (2017) 
